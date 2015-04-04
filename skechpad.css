@@ -1,0 +1,64 @@
+*
+{
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+header,
+section,
+article,
+hgroup,
+date,
+nav,
+aside,
+footer,
+time
+button
+{
+    display: block;
+
+    margin: 0;
+    padding: 0;
+}
+img
+{
+    max-width: 100%;
+    height: auto;
+}
+.rouge
+{
+  width:1000px;
+  height:auto;
+  margin:100px auto;
+}
+
+
+.grid
+{
+    width: 60px;
+    height: 50px;
+    margin-bottom:10px;
+  
+    background-color:steelblue;
+    border-radius:10px;
+
+}
+table
+{
+    border: 1px solid black;
+}
+td
+{
+    width: 50px;
+    height: 50px; 
+    border: 1px solid black;
+}
+tr
+{
+    width: 50px;
+    height: 50px;
+
+    border: 1px solid black;
+}
